@@ -1,3 +1,6 @@
+## This is personal fork of https://github.com/yangl900/azshell with binaries.
+### Go to original repository for latest updates
+
 * PowerShell
 
 ```powershell
